@@ -7,4 +7,4 @@ Below is the architecture of the app:
 **Database**: MySQL(RDS) + DynamoDB  
 **Host**: S3 + CloudFront  
 
-This is the website: https://d2b5xgstysj910.cloudfront.net/
+This is the website: https://d2b5xgstysj910.cloudfront.net/ (Currently down due to high cost on the relational database)
